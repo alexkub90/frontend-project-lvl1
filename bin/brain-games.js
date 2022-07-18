@@ -1,1 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
+console.log('Welcome to the Brain Games!');
